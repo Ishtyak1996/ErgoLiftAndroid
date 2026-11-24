@@ -1,0 +1,4 @@
+Copy your existing pose_landmarker_lite.task into this folder.
+The app requires the actual model file; this .txt is only a reminder.
+Official model link:
+https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_lite/float16/1/pose_landmarker_lite.task
